@@ -4,7 +4,7 @@ const App = () => {
 const [userName,setUserName] = useState("")
 const [password,setPassword] = useState("")
 
-  return (
+  return ( 
     <div className="flex justify-center min-h-screen items-center  bg-gray-50">
        <div className="bg-teal-400 pl-10 w-[1500px] h-[800px] flex justify-center items-center ">
      <div className="bg-teal-300 flex justify-center items-center shadow-[0_35px_60px_-15px_rgba(0,0,0,85)]">
